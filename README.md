@@ -1,7 +1,7 @@
 # DOM Manipulation Project: Quote Generator
 This project is a simple web application that generates random quotes using DOM manipulation. It allows users to click a button to display a new quote along with the corresponding author.
 
-##  [Click here to view the live project!](http://127.0.0.1:3000/index.html)
+##  [Click here to view the live project!](https://aysemerveksv.github.io/JS-qoute-generator/)
 
 
 ## Technologies Used
