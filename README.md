@@ -1,7 +1,7 @@
 # DOM Manipulation Project: Quote Generator
 This is a simple web application that generates random quotes using the Quotable API. Users can click a button to display a new quote along with the corresponding author.
 
-##  [Click here to view the live project!](https://aysemerveksv.github.io/JS-qoute-generator/)
+
 
 ## Technologies Used
 
