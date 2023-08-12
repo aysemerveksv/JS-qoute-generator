@@ -1,7 +1,8 @@
-# DOM Manipulation Project: Quote Generator
+# Welcome to the JS Quote Generator!
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Here-brightgreen)](https://aysemerveksv.github.io/JS-qoute-generator/)
+
 This is a simple web application that generates random quotes using the Quotable API. Users can click a button to display a new quote along with the corresponding author.
-
-
 
 ## Technologies Used
 
